@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @engineersunit
 - 👀 I’m interested in developing code to help humanity.
-- 🌱 I’m currently learning efficient coding techniques.
+- 🌱 I’m currently experimenting with efficient coding techniques.
 - 💞️ I’m looking to collaborate on algorithms.
 
 
